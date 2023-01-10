@@ -1,0 +1,15 @@
+{
+  "name": "film_app_mohamed_arbani",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Mohamed Arbani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-dev": "^8.0.0"
+  }
+}
